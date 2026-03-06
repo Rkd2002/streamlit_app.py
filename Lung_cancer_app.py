@@ -2,7 +2,7 @@
 LUNG CANCER DETECTION - STREAMLIT APP
 One file, no HTML/CSS/JavaScript needed!
 """
-
+import tensorflow as tf
 import streamlit as st
 import tensorflow as tf
 import numpy as np
